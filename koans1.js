@@ -14,11 +14,11 @@ test('What is a falsey value?', t => {
 })
 
 test('What is true?', t => {
-  t.true(true)
+  t.true(1 === 1)
 })
 
 test('What is false?', t => {
-  t.false(false)
+  t.false(1 < 1)
 })
 
 test('What will satisfy the t.isity assertion?', t => {
@@ -185,7 +185,7 @@ test('What is string concatenation?', t => {
 test('What are character escape sequences?', t => {
   const stringWithAnEscapedCharacter = '\u0041pple'
 
-  t.is('Apple', stringWithAnEscapedCharacter, '')
+  t.is('Apple', stringWithAnEscapedCharacter)
 })
 
 test('How do you find the length of a string?', t => {
