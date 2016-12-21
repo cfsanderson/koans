@@ -15,3 +15,10 @@ Kosen patiently wrote one sheet after another until eighty-four First Principles
 Then when the young man stepped outside for a few moments, Kosen thought: "Now this is my chance to escape his keen eye," and he wrote hurriedly, with a mind free from distraction: "The First Principle."
 
 "A masterpiece," pronounced the pupil.
+
+
+Questions from koans4...
+
+103 - 0 is falsey?
+143 - I put "integer" instead of "number"
+153 - I put NaN instead of true
